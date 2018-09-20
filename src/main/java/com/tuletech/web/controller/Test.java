@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/test.do")
 public class Test {
 	
-	/**
+	/**trigger
 	 * @函数功能：处理多个请求
 	 * @备注：http://xxxx/test.do?method=get，执行后输出“执行get”
 	 * @创建人：任齐
