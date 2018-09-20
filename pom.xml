@@ -13,7 +13,7 @@
 	<artifactId>SpringMVC</artifactId>
 	
 	<!-- 打包的机制，如pom, jar, war, rar -->
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	
 	<!-- 当前项目的版本，比如此处的1.0的快照版本，快照指项目还处于开发中，并不稳定 -->
 	<version>0.0.1-SNAPSHOT</version>
